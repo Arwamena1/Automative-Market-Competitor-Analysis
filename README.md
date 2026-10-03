@@ -6,7 +6,7 @@ An analysis of German passenger-car registrations in 2025, comparing **Audi A3, 
 
 **Status:** SQL analysis and report complete. The dashboard image is a static layout preview; a native Tableau dashboard is planned.
 
-![Dashboard preview](images/Dashboard_Preview.png)
+![Dashboard](images/Dashboard_Preview.png)
 
 ## Business question
 
