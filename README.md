@@ -63,8 +63,4 @@ Alternatively, open the generated `automotive_2025.sqlite` in DB Browser for SQL
 - `images/`: static dashboard preview.
 - `docs/`: processing log.
 
-## Next step
 
-Build and verify the Tableau dashboard using the result CSVs. Shares in these exports are stored as percentage points: 7.15 means 7.15%, not 715%.
-
-AI assisted the preparation of the queries, report and documentation. The project should be presented with an accurate account of the author's contribution and understanding.
