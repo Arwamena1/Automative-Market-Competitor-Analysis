@@ -1,0 +1,24 @@
+{
+  "source_rows": 28165,
+  "rows_2025": 4917,
+  "excluded_other_years": 23248,
+  "months": 12,
+  "duplicates_removed": 0,
+  "missing_registration_counts": 0,
+  "text_values_trimmed": 0,
+  "total_2025_registrations": 2857591,
+  "selected_rows": 36,
+  "selected_total": 78819,
+  "source_file": "SP_Modellreihen_1731554449119816558.xlsx",
+  "columns": [
+    "year",
+    "month_number",
+    "month_name",
+    "month_start",
+    "segment",
+    "brand",
+    "model",
+    "registrations",
+    "source_object_id"
+  ]
+}
