@@ -2,7 +2,7 @@
 
 An analysis of German passenger-car registrations in 2025, comparing **Audi A3, BMW 1 Series and Mercedes A-Class** in the compact segment.
 
-**Tools:** SQL (SQLite). Python is used only to import the cleaned CSV and run the SQL queries.
+**Tools:** SQL (SQLite), Tableau and Python is used only to import the cleaned CSV and run the SQL queries.
 
 **Status:** Completed SQL analysis and Tableau dashboard. A static preview is shown below; the [interactive dashboard is available on Tableau Public](https://public.tableau.com/app/profile/arwa.menaouar/viz/AutomotiveMarketAnalysisProject_AM/AutomotiveMarketOverview-2025).
 
