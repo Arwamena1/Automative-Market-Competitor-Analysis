@@ -4,7 +4,7 @@ An analysis of German passenger-car registrations in 2025, comparing **Audi A3, 
 
 **Tools:** SQL (SQLite). Python is used only to import the cleaned CSV and run the SQL queries.
 
-**Status:** Completed SQL analysis and interactive Tableau dashboard comparing Audi A3, BMW 1 Series and Mercedes A-Class registrations in Germany, 2025.
+**Status:** Completed SQL analysis and Tableau dashboard. A static preview is shown below; the [interactive dashboard is available on Tableau Public](https://public.tableau.com/app/profile/arwa.menaouar/viz/AutomotiveMarketAnalysisProject_AM/AutomotiveMarketOverview-2025).
 
 ![Dashboard](images/Dashboard_Preview.png)
 
@@ -60,7 +60,7 @@ Alternatively, open the generated `automotive_2025.sqlite` in DB Browser for SQL
 - `sql/`: analysis queries.
 - `results/`: six SQL result tables, ready for Tableau.
 - `reports/`: [findings and recommendations](reports/Automotive_Market_Competitor_Analysis.pdf).
-- `images/`: static dashboard preview.
-- `docs/`: processing log.
+- `images/`: static preview of the Tableau dashboard.
+- `docs/`: data preparation log documenting row counts, year filtering, and data quality checks.
 
 
